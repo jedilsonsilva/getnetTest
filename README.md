@@ -7,11 +7,11 @@ Projeto base para automação de API com RestAssured + Java.
 
 ## Título
 
-Projeto de automação da API Socio Educativo
+Projeto de automação (Projeto)
 
 ## Descrição do projeto
 
-Esse projeto tem como objetivo realizar a automação de testes da API .
+Esse projeto tem como objetivo realizar a automação de testes da API.
 
 ### Swagger:
 
@@ -20,13 +20,9 @@ Esse projeto tem como objetivo realizar a automação de testes da API .
 
 ## Postman
 
-Documentação da collection de testes do Jira 106 (https://documenter.getpostman.com/view/12857154/UVXnGEE3)
+Documentação da collection de testes https://reqres.in/
 
-## Configurar o projeto
-
-Instalar o(s) plugin(s) cucumber <br>
 Instalar Java JDK 17
-
 
 ## Estrutura do Projeto de automação
 

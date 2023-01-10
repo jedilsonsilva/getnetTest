@@ -58,5 +58,6 @@ tmp/
 local.properties
 .loadpath
 .factorypath
+.allure
 
 logs/
